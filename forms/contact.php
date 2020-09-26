@@ -15,7 +15,7 @@
     die( 'Unable to load the "PHP Email Form" Library!');
   }
 
-  $contact = Azeemnizar5@gmail.com;
+  $contact = Azeemnizar03@gmail.com;
   $contact->ajax = true;
   
   $contact->to = $receiving_email_address;
